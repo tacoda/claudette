@@ -1,7 +1,0 @@
-#!/usr/bin/env bash
-
-# TODO: Poetry project
-
-source .venv/bin/activate
-python main.py
-exit
